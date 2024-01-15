@@ -12,9 +12,9 @@ IntroToCalciumImaging </br>
 ## Notebooks (Planned)
 
 1. Running Jupyter notebook 
-2. Introduction to TIFF File Management with `tifffile` (Work In Progress)
+2. Introduction to TIFF File Management with `tifffile` 
 3. Basic Image Processing with Numpy and OpenCV
-4. Denoising and Deconvolution (Work In Progress)
+4. Denoising and Deconvolution 
 5. CaImAn: Pre-processing
 6. CaImAn: Motion Correction
 7. CaImAn: 1-photon Source Extraction
