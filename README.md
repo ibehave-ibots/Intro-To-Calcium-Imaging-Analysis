@@ -28,4 +28,8 @@ IntroToCalciumImaging </br>
 1. Registration with scikit-image
 2. Deconvolution with Oasis (oasis-deconvolve)
 
-## Comments
+## To Learn
+
+1. [jnormcorre](https://github.com/apasarkar/jnormcorre)
+2. [funimag](https://github.com/paninski-lab/funimag)
+
