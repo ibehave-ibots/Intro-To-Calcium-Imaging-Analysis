@@ -15,8 +15,8 @@ IntroToCalciumImaging </br>
 2. Introduction to TIFF File Management with `tifffile` 
 3. Basic Image Processing with Numpy and OpenCV
 4. Denoising and Deconvolution 
-5. CaImAn: Pre-processing
-6. CaImAn: Motion Correction
+5. CaImAn: Pre-processing (Motion Correction)
+6. CaImAn: ??
 7. CaImAn: 1-photon Source Extraction
 8. CaImAn: 2-photon Source Extraction
 9. CaImAn: Quality Control
