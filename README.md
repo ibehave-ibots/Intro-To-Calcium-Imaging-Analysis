@@ -26,5 +26,6 @@ IntroToCalciumImaging </br>
 ## Other ideas (Anything that comes to mind)
 
 1. Registration with scikit-image
+2. Deconvolution with Oasis (oasis-deconvolve)
 
 ## Comments
