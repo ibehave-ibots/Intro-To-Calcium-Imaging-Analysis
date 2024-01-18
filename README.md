@@ -27,6 +27,7 @@ IntroToCalciumImaging </br>
 
 1. Registration with scikit-image
 2. Deconvolution with Oasis (oasis-deconvolve)
+3. CaImAn Movie Handling
 
 ## To Learn
 
