@@ -9,3 +9,4 @@ data/Sue_2x_3000_40_-46.tif
 data_exploration/tmp*
 data_exploration/*.mmap
 *.tif
+*mmap
