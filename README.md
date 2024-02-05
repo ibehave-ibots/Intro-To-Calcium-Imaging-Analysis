@@ -11,16 +11,16 @@ IntroToCalciumImaging </br>
 
 ## Notebooks (Planned)
 
-1. Running Jupyter notebook 
-2. Introduction to TIFF File Management with `tifffile` 
-3. Basic Image Processing with Numpy and OpenCV
-4. Denoising and Deconvolution 
-5. CaImAn: Pre-processing (Motion Correction)
-6. CaImAn: ??
-7. CaImAn: 1-photon Source Extraction
-8. CaImAn: 2-photon Source Extraction
-9. CaImAn: Quality Control
-10. CaImAn: Let's work on your own dataset! 
+1. TIFF File 
+2. Image processing (summary images, high pass spatial filtering with OpenCV) 
+3. Image registration with Scikit-image
+4. CaImAn pre-processing steps 
+5. Talk/CaImAn movie handling (depends on Eric Thomson's availability)
+6. Talk/CaImAn movie handling (depends on Eric Thomson's availability)
+7. CaImAn Motion Correction
+8. CaImAn Source Extraction (1p imaging)
+9. CaImAn Source Extraction (2p imaging)
+10. Deconvolution with Oasis (or Retroscpective) 
 
 
 ## Other ideas (Anything that comes to mind)
