@@ -18,8 +18,8 @@ IntroToCalciumImaging </br>
 5. Talk/CaImAn movie handling (depends on Eric Thomson's availability)
 6. Talk/CaImAn movie handling (depends on Eric Thomson's availability)
 7. CaImAn Motion Correction
-8. CaImAn Source Extraction (1p imaging)
-9. CaImAn Source Extraction (2p imaging)
+8. CaImAn Source Extraction (2p imaging)
+9. CaImAn Source Extraction (1p imaging)
 10. Deconvolution with Oasis (or Retroscpective) 
 
 
