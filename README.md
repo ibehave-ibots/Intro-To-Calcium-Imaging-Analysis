@@ -20,7 +20,7 @@ IntroToCalciumImaging </br>
 7. CaImAn Motion Correction
 8. CaImAn Source Extraction (2p imaging)
 9. CaImAn Source Extraction (1p imaging)
-10. Deconvolution with Oasis (or Retroscpective) 
+10. Deconvolution with Oasis (or Retroscpective or bring your own dataset) 
 
 
 ## Other ideas (Anything that comes to mind)
