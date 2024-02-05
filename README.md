@@ -30,6 +30,7 @@ IntroToCalciumImaging </br>
 3. CaImAn Movie Handling
 4. High Pass and Low Pass Spatial Filtering with CV2
 5. Making summary images with Numpy
+6. CaImAn Logger
 
 ## To Learn
 
