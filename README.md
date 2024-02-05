@@ -28,6 +28,7 @@ IntroToCalciumImaging </br>
 1. Registration with scikit-image
 2. Deconvolution with Oasis (oasis-deconvolve)
 3. CaImAn Movie Handling
+4. High Pass and Low Pass Spatial Filtering with CV2
 
 ## To Learn
 
