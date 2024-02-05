@@ -31,6 +31,12 @@ IntroToCalciumImaging </br>
 4. High Pass and Low Pass Spatial Filtering with CV2
 5. Making summary images with Numpy
 6. CaImAn Logger
+7. Handling moving in formats other than TIF
+8. Loading multiple files or data collected in noncontiguous sessions
+9. Loading only *n* frames of a large file with movie object `subindices`
+10. Using change_params() to iteratively change params for CNMF model fitting
+11. Estimates class exploration (e.g., recover raw calcium traces, background models)
+12. nb_view_components customization
 
 ## To Learn
 
