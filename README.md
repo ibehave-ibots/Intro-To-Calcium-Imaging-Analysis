@@ -43,3 +43,10 @@ IntroToCalciumImaging </br>
 1. [jnormcorre](https://github.com/apasarkar/jnormcorre)
 2. [funimag](https://github.com/paninski-lab/funimag)
 
+
+## Milestone meeting
+
+1. Make Bokeh app for pre-processing steps (gaussian filter etc)
+2. From calcium traces to viz (like in Screenshot 2024-02-05 144351.png)
+3. Notebook on different file formats
+4. Unit on Numpy arrays (make an array, save it, load and compare) 
