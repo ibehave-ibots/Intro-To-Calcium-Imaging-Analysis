@@ -1,13 +1,5 @@
 demo_testing
-data/CA1_nVista_ci_daniel_inscopix_ds.tif
-data/Raw_LH_LepR_nVoke.tiff
-data/Input50.tiff
-data_exploration/tmp_mov_mot_corr_rig__d1_608_d2_718_d3_1_order_F_frames_50.mmap
-data_exploration/tmp_mov_mot_corr.hdf5
-data_exploration/tmp_mov_mot_corr_els__d1_608_d2_718_d3_1_order_F_frames_50.mmap
-data/Sue_2x_3000_40_-46.tif
-data_exploration/tmp*
-data_exploration/*.mmap
+tmp*
 *.tif*
 *mmap
 *.xml
