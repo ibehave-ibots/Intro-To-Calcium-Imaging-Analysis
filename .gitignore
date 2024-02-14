@@ -3,3 +3,4 @@ tmp*
 *.tif*
 *mmap
 *.xml
+*.np*
