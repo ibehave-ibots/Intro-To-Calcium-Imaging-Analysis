@@ -1,6 +1,6 @@
 demo_testing
 tmp*
 *.tif*
-*mmap
+*mmap*
 *.xml
 *.np*
